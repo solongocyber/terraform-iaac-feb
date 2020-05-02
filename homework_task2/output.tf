@@ -46,6 +46,8 @@ output "instance_public_ip" {
 
 }
 
+
+
 // output of route53
 output "instance_public_dns" {
   value = "${aws_instance.homework2.public_dns}"

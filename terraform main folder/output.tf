@@ -59,7 +59,9 @@ value = "${aws_key_pair.solongokey.public_key}"
 
 }
 
-
+output "name" {
+  value = "solongo"
+}
 
 
 
