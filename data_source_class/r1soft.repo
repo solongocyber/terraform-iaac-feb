@@ -1,0 +1,9 @@
+[r1soft]
+name=R1soft Repository Server
+baseurl=http://repo.r1soft.com/yum/stable/$basearch/
+enabled=1
+gpgcheck=0
+
+
+
+
