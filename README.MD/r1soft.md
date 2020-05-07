@@ -21,37 +21,33 @@ We tested Bastion with  :
 
 
 
-#### Introduction 
+#### R1soft server installation, creating and mounting EFS with Terraform
 
- * In this project we created an instance to host R1soft server and add EFS using terraform. All these components are configured properly and our code is reusable and work in every region of AWS.
+ * In this project we created an instance to host R1soft server and add EFS using terraform. All these components are configured properly and our code is reusable and works any region of AWS.
 
-*  VPC - 6 subnets :
-    - 3 private  subnet
-    - 3 public   subnet
+*  Create VPC with:
+    - 3 private  subnets
+    - 3 public   subnets
 
     - Public subnets attached to IGW.  
 
     - Private subnets attached to NG.  
 
-* Route tables 
+* Configure Route tables 
  
-* Public and private key created
+* Create Public and private keys 
 
 * Install R1soft server
 
-* Create EFS and mounted to the system
+* Create EFS and mount it to the system
 
-* Security groups and open nessasarly ports
+* Add Security groups and open nessasarly ports
 
-* Variables
-
-* Outputs
-
-* Tags
+* Create Variables , outputs and tags
 
 * Created instance
 
-* Index
+
  
 
 
