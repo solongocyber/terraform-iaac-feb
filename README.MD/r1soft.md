@@ -65,7 +65,8 @@ In here these steps followed using Terraform:
 
 1. Creating an AWS VPC  with 3 private, 3 public  subnets.
 
-    ![VPC ](https://user-images.githubusercontent.com/63433671/81336868-b3c4a500-906f-11ea-91b5-a174e5bdb942.png)
+   ![vpc](https://user-images.githubusercontent.com/63433671/81337892-5f222980-9071-11ea-850a-628bf0540e01.png)
+
 
 2. Instance created with R1softserver installation 
 
