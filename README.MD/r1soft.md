@@ -75,5 +75,8 @@ In here these steps followed using Terraform:
 
 3. EFS file created and mounted in to instance
 
+
+<img width="694" alt="Screen Shot 2020-05-07 at 1 47 27 PM" src="https://user-images.githubusercontent.com/63433671/81339000-22573200-9073-11ea-97c6-5557cbebcdbf.png">
+
  
 
