@@ -1,5 +1,4 @@
-![Install-R1Soft-Backup-n-Configure-1-backup-600x600](https://user-images.githubusercontent.com/63433671/81267105-83e3b600-900b-11ea-879c-95e6d6d43852.jpg)
-                  
+
 ## **R1soft Server Installation**
                           
                           
@@ -70,6 +69,7 @@ In here these steps followed using Terraform:
 
 2. Instance created with R1softserver installation 
 
+![r1soft](https://user-images.githubusercontent.com/63433671/81338377-26368480-9072-11ea-92b8-e244d84735a8.jpg)
 
 
 3. EFS file created and mounted in to instance
