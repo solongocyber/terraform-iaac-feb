@@ -70,7 +70,7 @@ In here these steps followed using Terraform:
 
 2. Instance created with R1softserver installation 
 
-![r1soft](https://user-images.githubusercontent.com/63433671/81338377-26368480-9072-11ea-92b8-e244d84735a8.jpg)
+![Untitled](https://user-images.githubusercontent.com/63433671/81338832-dc01d300-9072-11ea-86b5-989458b62e6c.png)
 
 
 3. EFS file created and mounted in to instance
